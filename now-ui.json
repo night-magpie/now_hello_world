@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-550126-hello-world": {
+			"innerComponents": [],
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "Hello world",
+				"icon": "chart-forecsat-fill",
+				"description": "Hello world app"
+			}
+	    }
+	},
+	"scopeName": "x_550126_test_he_0"
+}
